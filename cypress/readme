@@ -1,0 +1,5 @@
+# General
+### Download and install all dependencies
+npm install
+### Run tests in comand line
+npm test
